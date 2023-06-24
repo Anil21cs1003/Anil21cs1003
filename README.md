@@ -1,5 +1,4 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-![492af8c8ef7948e21d470c6fe03703a9](https://github.com/geohot/tinygrad/assets/97530750/ff729886-ccda-4092-9cba-16aa75dec177)
 
 
 
